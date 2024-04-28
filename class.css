@@ -1,0 +1,61 @@
+body {
+    font-family: sans-serif;
+}
+header {
+background-color: darkblue;
+border-radius: 15px;
+padding: 4 px;
+}
+header b {
+font-size: 15px;
+color: deepskyblue ;
+}
+header img{
+padding: 4px;
+margin: 4px;
+}
+header a {
+text-decoration: none;
+border: 1px solid deepskyblue;
+background-color: white;
+border-radius: 15px;
+}
+h1{
+background-color: blue;
+text-decoration: none;
+border-radius: 15px;
+}
+footer p{
+color: mediumblue;
+background-color: cyan;
+}
+nav {
+background-color: aqua;
+border-radius: 15px;
+margin:10px;
+}
+nav a {
+margin: 16px;
+font-size: 20px;
+color: rgb(aqua, darkblue, blue, deepskyblue);
+text-decoration: none;
+}
+p img {
+background-color: darkblue;
+border-radius: 10px;
+}
+.pan{
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-decoration: none;
+font-size: 20px;
+background-coliuor: darkblue;
+border-rads: 10px;
+}
+h2 {
+color: blue;
+font-size: 30px;
+}
+img { 
+border: 1px solid aqua;
+border-radius: 20px;
